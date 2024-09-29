@@ -212,3 +212,17 @@ TODO: ...
 | ![logo-wechat](./svg/logo-wechat.svg)           | `logo-wechat`      | ![logo-whatsapp](./svg/logo-whatsapp.svg)                 | `logo-whatsapp`         | ![logo-windows](./svg/logo-windows.svg)                     | `logo-windows`           |
 | ![logo-wordpress](./svg/logo-wordpress.svg)     | `logo-wordpress`   | ![logo-xbox](./svg/logo-xbox.svg)                         | `logo-xbox`             | ![logo-xing](./svg/logo-xing.svg)                           | `logo-xing`              |
 | ![logo-yahoo](./svg/logo-yahoo.svg)             | `logo-yahoo`       | ![logo-yen](./svg/logo-yen.svg)                           | `logo-yen`              | ![logo-youtube](./svg/logo-youtube.svg)                     | `logo-youtube`           |
+
+## Sponsors
+
+The following companies, organizations, and individuals support Iconongoing maintenance and development. Become a Sponsor to get your logo on our README and website.
+
+[![Exir Studio](https://avatars.githubusercontent.com/u/181194967?s=200&v=4)](https://exirstudio.com)
+
+### Contributing
+
+Contributions are welcome! Please read our [contribution guidelines](https://github.com/Alwatr/.github/blob/next/CONTRIBUTING.md) before submitting a pull request.
+
+### License
+
+This project is licensed under the [AGPL-3.0 License](LICENSE).
